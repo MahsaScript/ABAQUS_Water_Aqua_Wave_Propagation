@@ -1,0 +1,7 @@
+# Save by mofid on 2024_07_09-14.04.40; build 2023 2022_09_28-21.41.55 183150
+from abaqus import *
+upgradeMdb(
+    'C:/Users/mofid/Downloads/0-wave-propagation/abaqus_aqua_tutorial-master/abaqus_aqua_tutorial-master/aqua-2018.cae'
+    , 
+    'C:/Users/mofid/Downloads/0-wave-propagation/abaqus_aqua_tutorial-master/abaqus_aqua_tutorial-master/aqua.cae')
+# Save by mofid on 2024_07_09-14.04.40; build 2023 2022_09_28-21.41.55 183150
